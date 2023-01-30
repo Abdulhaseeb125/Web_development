@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+}
+.head{
+    padding: 200px 0 200px 0;
+    background-color: azure;
+}
+
+
+.education{
+    margin: 50px 0 0 0;
+    margin-left: 200px;
+    width: 40%;
+    float: left;
+}
+#hat{
+    margin: 70px 200px 100px 0;
+    height: 200px;
+
+}
+#verified{
+    margin: 50px 0  50px 130px ;
+    height: 170px;
+    border-radius: 100%; 
+}
+.skill{
+    width: 40%;
+    float: right;
+    margin: 20px 240px 0px 0;
+
+
+}
+#award{
+    margin: 90px 200px 100px 0;
+    height: 160px;
+}
+hr{
+    width: 6%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: rgb(151, 149, 149);
+
+
+}
